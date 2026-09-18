@@ -54,9 +54,9 @@ sdsdsdsdsd
 Картинки
 -------
 
-![текст ссылки](https://img.gazeta.ru/files3/325/19653325/jkll-pic_square_600x600-600x600-17831.jpg)
+![текст ссылки](https://i.ibb.co/jvZPq4hZ/2026-09-18-151414.png)
 
-![Логотип](https://img.gazeta.ru/files3/325/19653325/jkll-pic_square_600x600-600x600-17831.jpg "Подсказка")
+![Логотип](https://i.ibb.co/nNLdnt71/2026-08-21-175807.png "Подсказка")
 
 [![клик по картинке](https://img.gazeta.ru/files3/325/19653325/jkll-pic_square_600x600-600x600-17831.jpg "Подсказка")](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjzTxBs5EsvmZpTRkAaR8J0qHYLYNCQtQ3WJKkg9w6xjJHSPreExFq-L5&s=10)
 
